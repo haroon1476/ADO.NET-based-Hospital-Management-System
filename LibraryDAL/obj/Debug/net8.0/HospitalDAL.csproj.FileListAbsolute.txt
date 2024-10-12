@@ -1,0 +1,12 @@
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.csproj.AssemblyReference.cache
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfoInputs.cache
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.AssemblyInfo.cs
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.csproj.CoreCompileInputs.cache
+C:\Users\Haroon\Desktop\LibraryDAL\bin\Debug\net8.0\HospitalDAL.deps.json
+C:\Users\Haroon\Desktop\LibraryDAL\bin\Debug\net8.0\HospitalDAL.dll
+C:\Users\Haroon\Desktop\LibraryDAL\bin\Debug\net8.0\HospitalDAL.pdb
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.dll
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\refint\HospitalDAL.dll
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\HospitalDAL.pdb
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\ref\HospitalDAL.dll

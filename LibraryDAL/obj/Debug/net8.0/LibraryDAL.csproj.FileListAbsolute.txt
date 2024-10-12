@@ -1,0 +1,5 @@
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.AssemblyReference.cache
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfoInputs.cache
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfo.cs
+C:\Users\Haroon\Desktop\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.CoreCompileInputs.cache
